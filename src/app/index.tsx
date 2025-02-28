@@ -20,7 +20,7 @@ function Index() {
 
 const styles = StyleSheet.create({
   text: {
-    color: "blue",
+    color: "lightblue",
     fontSize: 26,
     fontWeight: "bold",
   },
@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
     padding: 32,
     justifyContent: "center",
     gap: 12,
+    backgroundColor: "#121212"
   },
 });
 
